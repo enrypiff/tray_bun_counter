@@ -4,7 +4,7 @@ I manually annotated 12 photos I took during the commissionig of the production 
 
 ![instance segmentation](https://github.com/enrypiff/tray_bun_counter/assets/139701172/9ccf5b54-2d8f-4c6b-855e-38091fe1f911)
 
-Then I trained YOLO v8 for instance segmentation (I noticed that is more faster and accurate for very small datasets.
+Then I trained YOLO v8 for instance segmentation (yolov8n-seg.pt) (I noticed that is more faster and accurate for very small datasets.
 
 To handle the tracking problem for the counter I've used the SORT tracking algorithm.
 
